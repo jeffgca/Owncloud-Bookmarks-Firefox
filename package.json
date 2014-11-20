@@ -1,0 +1,13 @@
+{
+  "title": "Owncloud Bookmarks",
+  "name": "owncloud-bookmarks-fx",
+  "version": "0.0.1",
+  "description": "Port of the chrome extension",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=33.0a1",
+    "fennec": ">=33.0a1"
+  },
+  "license": "MIT"
+}
