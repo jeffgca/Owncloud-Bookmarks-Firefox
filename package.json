@@ -9,5 +9,8 @@
     "firefox": ">=33.0a1",
     "fennec": ">=33.0a1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jpm": "^1.0.5"
+  }
 }
